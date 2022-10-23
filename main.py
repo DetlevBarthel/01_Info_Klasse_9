@@ -16,5 +16,5 @@ def sketch(p):
           p.circle(200,200,100-i*10)
     
     p.setup = setup
-      
+    print("hi")
 myp5 = window.p5.new(sketch)
